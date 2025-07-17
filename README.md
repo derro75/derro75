@@ -2,7 +2,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derro75&show_icons=true&theme=tokyonight)
 ## How I speak to machines ⚡⚡
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derro75&layout=compact&theme=tokyonight)
-js
+``` js
 const derro75 = {
   languages: {
     highLevel: ["Python", "SQL"],
@@ -24,6 +24,8 @@ const derro75 = {
   },
   UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"]
 };
+
+
 <!--
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derro75&theme=react-dark)
 
