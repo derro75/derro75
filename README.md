@@ -1,7 +1,8 @@
-## Hi there 👋
-
+## Hi coder 👋 Fork here
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derro75&show_icons=true&theme=tokyonight)
+## How I speak to machines ⚡⚡
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derro75&layout=compact&theme=tokyonight)
+
 <!--
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derro75&theme=react-dark)
 
