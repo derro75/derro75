@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derro75&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derro75&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derro75&theme=react-dark)
+
 <!--
 **derro75/derro75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
