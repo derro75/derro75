@@ -25,7 +25,7 @@ const derro75 = {
   UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"]
 };
 
-
+```
 <!--
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derro75&theme=react-dark)
 
