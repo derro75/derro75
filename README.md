@@ -57,7 +57,7 @@ const derro75 = {
 ## 📌 Featured Projects
 - 🖥 [Personal Portfolio Website](#)
 - 🤖 [AI Chatbot](#)
-- 📦 [Django Inventory Management System](#)
+- 📦 [Django Inventory Management System](https://myproject-1-ffmb.onrender.com/)
 
 ---
 
