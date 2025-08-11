@@ -20,7 +20,7 @@ const derro75 = {
 ```
 
 <!-- Banner / Intro -->
-<h1 align="center">Hi coder, I'm Derrick Mwenda 👋</h1>
+<h1 align="center">Hi coder, I'm Mwenda 👋</h1>
 <h3 align="center">💻 Web Developer | 📍 Kasarani, Nairobi | ✝ Doing God's Work</h3>
 
 ---
