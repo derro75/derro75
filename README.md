@@ -26,6 +26,7 @@ const derro75 = {
 ---
 
 ## 🚀 About Me
+- 🖥  Working at **sherrick web development office**
 - 🔭 Building **responsive and modern websites**
 - 🤖 Exploring **AI** & automation to boost productivity
 - 🤝 Open to collaborations in **web development** and **machine learning**
