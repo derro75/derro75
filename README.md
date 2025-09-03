@@ -70,7 +70,7 @@ const derro75 = {
 
 ---
 
-## ⚡ CERTIFICATIONS
+## ⚡ Certifications
 -  [To be updated](#)
 
 ⭐ *"Code with purpose, build with passion."*
