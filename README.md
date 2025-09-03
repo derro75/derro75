@@ -70,6 +70,9 @@ const derro75 = {
 
 ---
 
+## ⚡ CERTIFICATIONS
+-  [To be updated](#)
+
 ⭐ *"Code with purpose, build with passion."*
 <!--
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derro75&theme=react-dark)
